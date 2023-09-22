@@ -1,16 +1,16 @@
-### Ola! sou Carlos Jessé👋
+### Ola! Eu sou Carlos Jessé👋
 
-<!--
-**RECCOELHO/RECCOELHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jess%C3%A9-coelho-da-silva-5b375a206/)
+[![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CarlosJesse)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.j.coelho/)
 
-Here are some ideas to get you started:
+![Carlos Jessé](https://github-readme-stats.vercel.app/api?username=reccoelho&show_icons=true&theme=gradient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu mais uso...
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reccoelho&layout=compact)
